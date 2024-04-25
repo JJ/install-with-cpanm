@@ -5,7 +5,8 @@ Status](https://github.com/JJ/install-with-cpanm/workflows/check/badge.svg)](htt
 
 > This is a fork of the [original
 > `perl-actions/install-with-cpanm`](https://github.com/perl-actions/install-with-cpanm/),
-> with some improvements, released under the original ISC license.
+> with some improvements, released under the original ISC license. Please use
+> that one whenever possible.
 
 GitHub action to install Perl Modules [App::cpanminus](https://github.com/miyagawa/cpanminus)
 
